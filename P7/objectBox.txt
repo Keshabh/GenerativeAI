@@ -1,0 +1,5 @@
+🧠 ObjectBox Vector DB (Notes):
+----------------------------------
+1. A local-first vector database to store and search embeddings directly on devices (no internet needed).
+2. Ideal for edge or IoT AI apps like smart fridges or wearables — enables offline semantic search and fast AI responses.
+3. Works like SQLite for AI data, combining speed, privacy, and low resource use.
